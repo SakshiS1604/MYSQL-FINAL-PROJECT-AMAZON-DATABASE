@@ -1,8 +1,6 @@
 # MYSQL-FINAL-PROJECT-AMAZON-DATABASE
 # Final Project: Amazon Database Management System
-
-<img width="148" height="148" alt="image" src="https://github.com/user-attachments/assets/a32cea9e-10f0-412a-8c4b-90fa44fd4437" />
-
+---
 
 ## 📖 Project Overview
 
